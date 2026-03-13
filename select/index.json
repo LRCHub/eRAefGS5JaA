@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Chasing Circles",
+  "base_artist": "Ella Mai",
+  "createdAt": "2026-03-13T15:27:47.977795Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chasing Circles",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/01_Chasing_Circles_Ella_Mai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chasing Circles",
+      "artist": "Ella Mai",
+      "has_synced": false,
+      "path": "select/pl_01_Chasing_Circles_Ella_Mai.txt"
+    }
+  ]
+}
