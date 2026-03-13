@@ -1,0 +1,67 @@
+# Ella Mai – Chasing Circles
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:18.18] Way before you hit me with your words and
+[00:20.87] Make me have to look at my reflection
+[00:27.73] Tellin' you it's fine when it isn't
+[00:29.52] Hopin' you don't notice I've been distant
+[00:50.02] 
+[00:34.77] You know I hate oversharin' but I guess it's workin'
+[00:41.17] Know you got your ways, but I'm still gon' drive here
+[00:44.95] You're the one that knows me, go 'head, diagnose me
+[00:48.86] 'Cause when it hurts, you know it's therapy
+[01:10.36] 
+[00:55.02] So I don't mind losin' my way back to myself
+[01:00.77] I would rather chase circles, bein' me than somebody else
+[01:09.09] Ain't no runnin', no escapin'
+[01:16.37] I'm gon' face me now
+[01:19.46] Chasin' circles, goin' 'round and 'round
+[01:24.84] Gon' face me now
+[01:29.35] Oh, I'm chasin' all these circles now
+[01:47.85] 
+[01:36.01] Circles, goin' in circles
+[01:36.78] Goin' in circles
+[01:39.24] Goin' 'til I find my own way out
+[01:42.30] Circles, goin' in circles
+[01:46.14] Goin' in circles
+[01:47.49] Goin' in circles now
+[01:57.49] 
+[01:51.32] Circles, goin' in circles
+[01:56.17] Said I'm goin' in circles
+[01:56.96] Goin' in circles
+[02:04.96] 
+[02:01.86] All that you know 'bout me
+[02:02.42] Would you judge me 'bout it?
+[02:05.36] Have I been too honest?
+[02:06.14] Should we talk about it?
+[02:18.14] 
+[02:07.63] Why is this happenin'?
+[02:11.54] I'm tryin' my hardest
+[02:15.01] Hate I'm feelin' all this
+[02:15.51] But to grow
+[02:21.01] 
+[02:17.32] So I don't mind losin' my way back to myself
+[02:23.03] I would rather chase circles, bein' me than somebody else
+[02:34.04] Ain't no runnin', no escapin'
+[02:36.30] I'm gon' face me now
+[02:41.88] Chasin' circles, goin' around, yeah
+[02:46.18] I'm gon' face me now, oh, oh
+[03:00.18] 
+[02:55.75] Circles, goin' in circles
+[03:00.41] Goin' in circles
+[03:01.93] Goin' 'til I find my own way out
+[03:07.15] Circles (said I'm goin' in), goin' in circles
+[03:08.36] Goin' in circles
+[03:11.19] Goin' in circles now
+[03:21.19] 
+[03:13.88] Circles (ooh, circles), goin' in circles (yeah, circles)
+[03:18.61] Said I'm goin' in circles
+[03:20.29] Said I'm goin' in circles now
+[03:34.79] 
+[03:26.27] Ay, yeah, ooh, yeah
+[03:29.45] Goin' in circles now
+[03:34.60] Ay, yeah, ay, yeah
+[03:40.10] Goin' in circles now
+```
